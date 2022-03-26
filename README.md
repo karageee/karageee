@@ -1,5 +1,5 @@
 ### You called me?:wave:
-Hi, My name is <a href="https://www.github.com/karageee">Gilbert</a>. I just freshly graduated with a **Bachelor degree of Computer Science.** I'm also quite a weeb and got teased because of it for a bit. I always keep up with the current tech trends and try to learn new stuff that the global market wants.
+Hi, My name is <a href="https://www.github.com/karageee">Gilbert</a>. I just freshly graduated with a **Bachelor degree of Computer Science.** I'm also quite a weeb. I always keep up with the current tech trends and try to learn new stuff that the global market wants.
 
 I mostly use these programming languages during my university years and still does now:
 - Python

@@ -38,7 +38,7 @@ The tools i use to code are:
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-My main field of expertise is mostly in 🌐 Web Development and 👾 Machine Learning, now I'm working as a Cloud Architech in a retail company.
+My main field of expertise is mostly in 🌐 Web Development and 👾 Machine Learning, now I'm working as a Cloud Architech in one of the biggest retail company in Indonesia.
 
 other than that, I also do some small <img alt="" src="https://simpleicons.org/icons/windows.svg" width="12"> Windows Application and Web scraping app development as well on the side
 
